@@ -33,7 +33,7 @@ joblib==1.2.0
 jsonschema==3.1.1
 kiwisolver==1.1.0
 MarkupSafe==1.1.1
-marshmallow==3.2.1
+marshmallow==3.26.2
 marshmallow-polyfield==5.7
 matplotlib==3.1.1
 mccabe==0.6.1
