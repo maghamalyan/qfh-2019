@@ -84,7 +84,7 @@ simulaqron==3.0.8
 six==1.12.0
 sympy==1.4
 tornado==6.5.8
-Twisted==26.4.0rc2
+Twisted==26.10.0rc1
 urllib3==2.7.0
 wcwidth==0.1.7
 websockets==9.1
